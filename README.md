@@ -60,7 +60,7 @@ GraphQL, Apollo GraphQL, Kafka, RabbitMQ, AWS RDS
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/stackspy.git
+   git clone https://github.com/xyphoscyber/stackspy.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions`
